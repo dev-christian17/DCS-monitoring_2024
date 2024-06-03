@@ -26,6 +26,7 @@ class trainees extends config{
             return true;
         } else {
             return false;
+            return false;
         }
     }
 
